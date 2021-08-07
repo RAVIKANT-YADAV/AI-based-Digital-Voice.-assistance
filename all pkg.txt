@@ -1,0 +1,8 @@
+Playsounds
+webbrowser
+wikipedia
+pyttsx3
+voice_Recognition
+psutil
+
+
